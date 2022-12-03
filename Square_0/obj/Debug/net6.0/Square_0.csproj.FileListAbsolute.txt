@@ -1,0 +1,15 @@
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\bin\Debug\net6.0\Square_0.exe
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\bin\Debug\net6.0\Square_0.deps.json
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\bin\Debug\net6.0\Square_0.runtimeconfig.json
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\bin\Debug\net6.0\Square_0.dll
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\bin\Debug\net6.0\Square_0.pdb
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.csproj.AssemblyReference.cache
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.AssemblyInfoInputs.cache
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.AssemblyInfo.cs
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.csproj.CoreCompileInputs.cache
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.dll
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\refint\Square_0.dll
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.pdb
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\Square_0.genruntimeconfig.cache
+C:\Users\Darlin Alderson\Desktop\CSharpCourse\Seminar001_2711\Square_0\obj\Debug\net6.0\ref\Square_0.dll
